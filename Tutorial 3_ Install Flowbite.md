@@ -31,6 +31,6 @@ export function useFlowbite(callback) {
 - Save
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-tailwind/-/blob/main/Tutorial%202%3A%20Install%20Tailwind.md)
+[<< Prev](https://github.com/ajmalnorshawali/setup-nuxt3-tailwind/blob/main/Tutorial%202_%20Install%20Tailwind.md)
 |
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-tailwind/-/blob/main/Tutorial%204:%20Nuxt%20Views.md)
+[Next >>](https://github.com/ajmalnorshawali/setup-nuxt3-tailwind/blob/main/Tutorial%204_%20Nuxt%20Views.md)
