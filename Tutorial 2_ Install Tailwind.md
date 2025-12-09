@@ -37,6 +37,6 @@ npm run dev
 ```
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-tailwind/-/blob/main/Tutorial%201:%20Install%20Nuxt.md)
+[<< Prev](https://github.com/ajmalnorshawali/setup-nuxt3-tailwind/blob/main/Tutorial%201_%20Install%20Nuxt.md)
 |
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-tailwind/-/blob/main/Tutorial%203:%20Install%20Flowbite.md)
+[Next >>](https://github.com/ajmalnorshawali/setup-nuxt3-tailwind/blob/main/Tutorial%203_%20Install%20Flowbite.md)
