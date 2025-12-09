@@ -102,4 +102,4 @@ npm run dev
 ```
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-tailwind/-/blob/main/Tutorial%203%3A%20Install%20Flowbite.md)
+[<< Prev](https://github.com/ajmalnorshawali/setup-nuxt3-tailwind/blob/main/Tutorial%203_%20Install%20Flowbite.md)
